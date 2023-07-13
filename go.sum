@@ -36,8 +36,6 @@ contrib.go.opencensus.io/exporter/stackdriver v0.13.4/go.mod h1:aXENhDJ1Y4lIg4EU
 dmitri.shuralyov.com/gpu/mtl v0.0.0-20190408044501-666a987793e9/go.mod h1:H6x//7gZCb22OMCxBHrMx7a5I7Hp++hsVxbQ4BYO7hU=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
-github.com/Fraunhofer-AISEC/go-attestation v0.3.3-0.20230328135105-ca7a3b7bbe38 h1:P7vh8q5FMhfbiO6gnogUS4HgSgTfVf3zhxId6fZcDw8=
-github.com/Fraunhofer-AISEC/go-attestation v0.3.3-0.20230328135105-ca7a3b7bbe38/go.mod h1:JP5PzDMUMucoAtjwdEWOiTiQnu+EO3nZemrWDOIziYY=
 github.com/Fraunhofer-AISEC/go-attestation v0.3.3-0.20230718153441-863e0918179e h1:37adfJc1YVZvak/RVyzjnkLRd1nxeKbqcCKmEASz/KQ=
 github.com/Fraunhofer-AISEC/go-attestation v0.3.3-0.20230718153441-863e0918179e/go.mod h1:JP5PzDMUMucoAtjwdEWOiTiQnu+EO3nZemrWDOIziYY=
 github.com/Masterminds/goutils v1.1.0/go.mod h1:8cTjp+g8YejhMuvIA5y2vz3BpJxksy863GQaJW2MFNU=
