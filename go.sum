@@ -38,6 +38,8 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/Fraunhofer-AISEC/go-attestation v0.3.3-0.20230328135105-ca7a3b7bbe38 h1:P7vh8q5FMhfbiO6gnogUS4HgSgTfVf3zhxId6fZcDw8=
 github.com/Fraunhofer-AISEC/go-attestation v0.3.3-0.20230328135105-ca7a3b7bbe38/go.mod h1:JP5PzDMUMucoAtjwdEWOiTiQnu+EO3nZemrWDOIziYY=
+github.com/Fraunhofer-AISEC/go-attestation v0.3.3-0.20230718153441-863e0918179e h1:37adfJc1YVZvak/RVyzjnkLRd1nxeKbqcCKmEASz/KQ=
+github.com/Fraunhofer-AISEC/go-attestation v0.3.3-0.20230718153441-863e0918179e/go.mod h1:JP5PzDMUMucoAtjwdEWOiTiQnu+EO3nZemrWDOIziYY=
 github.com/Masterminds/goutils v1.1.0/go.mod h1:8cTjp+g8YejhMuvIA5y2vz3BpJxksy863GQaJW2MFNU=
 github.com/Masterminds/semver v1.4.2/go.mod h1:MB6lktGJrhw8PrUyiEoblNEGEQ+RzHPF078ddwwvV3Y=
 github.com/Masterminds/semver v1.5.0/go.mod h1:MB6lktGJrhw8PrUyiEoblNEGEQ+RzHPF078ddwwvV3Y=
