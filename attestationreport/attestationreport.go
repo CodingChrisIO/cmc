@@ -529,6 +529,9 @@ func Generate(nonce []byte, metadata [][]byte, measurers []Driver, s Serializer)
 		} else if snpData, ok := data.(SnpMeasurement); ok {
 			log.Tracef("Added %v to attestation report", snpData.Type)
 			ar.SnpM = &snpData
+		} else if sgxData, ok := data.(SgxMeasurement); ok {
+			log.Tracef("Added %v to attestation report", sgxData.Type)
+			ar.SgxM = &sgxData
 		} else {
 			log.Error("Error: Unsupported measurement interface type")
 		}
